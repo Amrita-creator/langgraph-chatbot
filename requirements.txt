@@ -1,0 +1,9 @@
+langchain 
+langchain-core 
+dotenv 
+langchain-huggingface
+langgraph
+langgraph-checkpoint-sqlite
+transformers 
+huggingface-hub
+streamlit
